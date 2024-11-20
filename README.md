@@ -1,6 +1,6 @@
 # Hola, soy Miren Pérez 👋💻☕
 ## Sobre mí
-Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de videojuegos. Me especializo en Backend, con una sólida formación en desarrollo de software, manejo de bases de datos y habilidades en Frontend.
+Soy una Desarrolladora Backend con experiencia en Frontend y desarrollo de videojuegos. Me especializo en Backend, con una sólida formación en desarrollo de software, manejo de bases de datos y habilidades en Frontend.
 
 - 🌱 Actualmente estoy aprendiendo **.NET y ASP.NET**
 - 💬 Pregúntame sobre **Android, .NET y desarrollo web**
