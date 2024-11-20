@@ -10,10 +10,8 @@ Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de video
 
 ## Lenguajes y Tecnologías
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) 
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin) 
