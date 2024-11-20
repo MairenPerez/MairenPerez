@@ -20,12 +20,12 @@ Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de video
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp) 
 ![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat&logo=dot-net) 
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet?style=flat&logo=dot-net) 
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity) 
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat&logo=unreal-engine) 
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sql) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
 ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure)
 ![Microsoft Azure Fundamentals](https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-blue?style=flat&logo=microsoft-azure)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity) 
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat&logo=unreal-engine) 
 
 ## Proyectos Destacados
 - [El Ahorcado](https://github.com/MairenPerez/JuegosJS): Juego El Ahorcado con una interfaz creativa.
