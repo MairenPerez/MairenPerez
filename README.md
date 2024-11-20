@@ -24,6 +24,8 @@ Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de video
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat&logo=unreal-engine) 
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sql) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-blue?style=flat&logo=microsoft-azure)
 
 ## Proyectos Destacados
 - [El Ahorcado](https://github.com/MairenPerez/JuegosJS): Juego El Ahorcado con una interfaz creativa.
