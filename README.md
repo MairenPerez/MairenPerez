@@ -1,4 +1,4 @@
-# Hola, soy Mairen Perez 👋
+# Hola, soy Miren Perez 👋
 
 ## Sobre mí
 Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de videojuegos. Me especializo en Backend, con una sólida formación en desarrollo de software, manejo de bases de datos y habilidades en Frontend.
