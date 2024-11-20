@@ -18,4 +18,3 @@ Soy una desarrolladora Backend con experiencia en Frontend y desarrollo de video
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/miren-p%C3%A9rez-ruiz-1aa028222/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/mairenperez)
