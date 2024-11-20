@@ -14,6 +14,7 @@ Soy una Desarrolladora Backend con experiencia en Frontend y desarrollo de video
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin) 
+![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=android)
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp) 
 ![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat&logo=dot-net) 
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet?style=flat&logo=dot-net) 
